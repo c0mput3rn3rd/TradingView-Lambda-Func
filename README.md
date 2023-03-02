@@ -1,3 +1,5 @@
+Requires use of an AWS Lambda function as well as DynamoDB
+
 api.py:
 
 add API keys here.
